@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Tapeless
-- 👀 I’m interested in machine learning / data science with Python & GNU Octave
-- 🌱 I’m currently learning data science, ML, and ETL pipelines in industry
+- 👋 Hi, I’m Brendon!
+- 🌱 I’m currently learning data science in industry & full-stack development based on Data Science solutions
 - 💞️ I’m looking to collaborate on integrating ML into existing programs
 - 📫 How to reach me - twitter @bren_done
 
