@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Brendon!
-- 🌱 I’m currently learning data science in industry & full-stack development based on Data Science solutions
-- 💞️ I’m looking to collaborate on integrating ML into existing programs
-- 📫 How to reach me - twitter @bren_done
+Data Science with Python, and general personal projects!
+Looking to start OSS contributions in Python, and learn JS/Rust.
+
+Twitter - @bren_done
 
 <!---
 Tapeless/Tapeless is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
